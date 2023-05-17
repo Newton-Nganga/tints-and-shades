@@ -100,7 +100,7 @@ function App() {
           })}
         </div>
       </div>
-      <div className="git-repo"><FiGithub/>Github</div>
+      <div className="git-repo"><a href="https://github.com/Newton-Nganga/tints-and-shades.git"><FiGithub/>Github</a></div>
       <div className="brandy"><span>🫣</span> by Newton</div>
     </section>
   );

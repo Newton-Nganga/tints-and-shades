@@ -124,7 +124,7 @@ opacity: 0;
   border-radius: 10px;
 }
 
-.git-repo>svg{
+.git-repo>a>svg{
   font-size: 1.5rem;
 }
 .brandy{
