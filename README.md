@@ -2,7 +2,8 @@
 A simple web application to pick the desired colors.You just have to input a color of your choice then tints and shades of that color will be generated.
 
 ## Tech stack used
-![stack](https://www.vecteezy.com/vector-art/12817703-html5-css3-js-icon-set-web-development-logo-icon-set-of-html-css-and-javascript-programming-symbol)
+HTML CSS and JS(vanilla)
+
 ## Usage
 - visit @ [tintsandshades](https://tintsandshades.vercel.app/)
 - Pick a color of your choice 
