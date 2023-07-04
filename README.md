@@ -1,13 +1,15 @@
 # Tints and shades 
 A simple web application to pick the desired colors.You just have to input a color of your choice then tints and shades of that color will be generated.
 
-## usage
+## Tech stack used
+![stack](https://www.vecteezy.com/vector-art/12817703-html5-css3-js-icon-set-web-development-logo-icon-set-of-html-css-and-javascript-programming-symbol)
+## Usage
 - visit @ [tintsandshades](https://tintsandshades.vercel.app/)
 - Pick a color of your choice 
 - As you pick the color the tints and shades are generated automatically
 - Click on the colors to copy the HEX code
 
-## screensnaps
+## Screensnaps
 Desktop and large screen Mobile and small devices
 
 <div align="top">
