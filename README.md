@@ -5,10 +5,10 @@ A simple web application to pick the desired colors.You just have to input a col
 HTML CSS and JS(vanilla)
 
 ## Usage
-- visit @ [tintsandshades](https://tintsandshades.vercel.app/)
-- Pick a color of your choice 
-- As you pick the color the tints and shades are generated automatically
-- Click on the colors to copy the HEX code
+👉 visit @ [tintsandshades](https://tintsandshades.vercel.app/)
+👉 Pick a color of your choice 
+👉 As you pick the color the tints and shades are generated automatically
+👉 Click on the colors to copy the HEX code
 
 ## Screensnaps
 Desktop and large screen Mobile and small devices
