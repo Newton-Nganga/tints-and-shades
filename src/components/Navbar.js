@@ -1,28 +1,20 @@
-import React from 'react'
-import './Navbar.css'
-function Navbar() {
+
+import {FaGithub} from "react-icons/fa"
+function Navbar({scrolledDown}) {
   return (
-    <div className='nav-component'>
-        <div>
-            logo
+    <div className={`nav-container ${scrolledDown && 'nav-scrolled'}`}>
+     <div className='inner-section nav-inner'>
+        <div className='nav-item'>
+         <div className='nav-logo'>
         </div>
-        <ul>
-            <li>
-                home
-            </li>
-            <li>
-                features
-            </li>
-            <li>
-                about us
-            </li>
-            <li>
-                contact us
-            </li>
-            <li>
-                sign in
-            </li>
-        </ul>
+        <div className='nav-github'>
+          <a href="https://github.com/Newton-Nganga/tints-and-shades.git">
+             <FaGithub/>
+          </a>
+        </div>
+        </div>
+        
+        </div>
     </div>
   )
 }

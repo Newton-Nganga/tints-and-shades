@@ -6,9 +6,9 @@ export default function usegenerateTintsAndShades(color,n) {
     const baseColor = tinycolor(color);
 
     // Calculate the steps between each tint/shade based on the total number of colors
-    const stepx = 3.2; //darken
-    const stepS = 120 / (n + 16);
-    const stepT = 110 / (n + 15); //lightrn
+    // const stepx = 3.2; //darken
+    const stepS = 120 / (n + 19);
+    const stepT = 110 / (n +16); //lightrn
     //2.2
     //3.2
     // Generate n tints and n shades
