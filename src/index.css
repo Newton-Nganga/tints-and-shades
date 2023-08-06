@@ -373,7 +373,7 @@ opacity: 0;
   top: 150px;
  }
  .hero-header__title-rule{
-  width: 10px;
+  height: 10px;
  }
 }
 @media  (min-width:1025px){
