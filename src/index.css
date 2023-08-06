@@ -72,7 +72,7 @@ body{
 .hero-header__title-rule{
   background-color:var(--blue);
   width: 100px;
-  height: 10px;
+  height: 5px;
   border-radius: 30px;
   display: block;
 }
@@ -371,6 +371,9 @@ opacity: 0;
  }
  .color-picker-card::before{
   top: 150px;
+ }
+ .hero-header__title-rule{
+  width: 10px;
  }
 }
 @media  (min-width:1025px){
