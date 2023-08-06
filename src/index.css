@@ -103,7 +103,7 @@ body{
   gap: 0.5rem;
   width: fit-content;
   padding:0.5rem ;
- 
+  margin-bottom: 2rem;
 }
 .color-picker-card::before{
   content: "";
@@ -374,6 +374,9 @@ opacity: 0;
  }
  .hero-header__title-rule{
   height: 10px;
+ }
+ .color-picker-card{
+  margin-bottom: auto;
  }
 }
 @media  (min-width:1025px){
