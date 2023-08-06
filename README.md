@@ -14,8 +14,8 @@ Reactjs | React-icons
 Desktop and large screen Mobile and small devices
 
 <div align="top">  
-![232shots_so](https://github.com/Newton-Nganga/tints-and-shades/assets/93589514/18318cc6-6397-4a33-9474-db6360812b3b)
-![shadealchemy](https://github.com/Newton-Nganga/tints-and-shades/assets/93589514/db5ed21b-161b-4700-8328-3cd6df2cff3a)
+![232shots_so](https://github.com/Newton-Nganga/tints-and-shades/assets/93589514/18318cc6-6397-4a33-9474-db6360812b3b)  
+![shadealchemy](https://github.com/Newton-Nganga/tints-and-shades/assets/93589514/db5ed21b-161b-4700-8328-3cd6df2cff3a)  
 
 
 
