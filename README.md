@@ -5,7 +5,7 @@ A simple web application to pick the desired colors .You just have to input a co
 Reactjs | React-icons
 
 ## Usage
-👉 visit @ [tintsandshades](https://shedsalchemy.vercel.app/)  
+👉 visit @ [shedsalchemy](https://shedsalchemy.vercel.app/)  
 👉 Pick a color of your choice   
 👉 As you pick the color the tints and shades are generated automatically  
 👉 Click on the colors to copy the HEX code  
